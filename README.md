@@ -5,7 +5,7 @@ pada mata kuliah Proyek Perangkat Lunak (PPL).
 
 ## Identitas Anggota
 - Nama: Triswanti Jannatu Ma'wa
-- NIM: Isi NIM kamu
+- NIM: 240411100125
 
 ## Aktivitas
 - Membuat repository
